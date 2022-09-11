@@ -1,0 +1,32 @@
+.image {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.background {
+  background-color: #003147;
+  position: relative;
+}
+#CV-template {
+  display: none;
+}
+/* #CV-form {
+  display: none;
+} */
+.container1 {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 100px;
+  color: white;
+  grid-template-columns: 1fr 2fr;
+}
+.inner {
+  color: black;
+}
+.btn {
+  color: white;
+}
+.container {
+  position: relative;
+}
